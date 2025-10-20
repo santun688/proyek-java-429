@@ -1,5 +1,9 @@
 public class code {
     public static void main(String[] args) {
-        System.out.println("Codelab 1 Pemrograman Lanjut.");
+        int b = 1;
+        int v = 2;
+        int kali = b * v ;
+
+        System.out.println("total : " + kali);
     }
 }
